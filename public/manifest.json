@@ -1,0 +1,24 @@
+{
+  "name": "모유 수급 관리 (밀크매스)",
+  "short_name": "밀크매스",
+  "description": "쌍둥이 맘을 위한 모유 수급 관리 앱",
+  "start_url": "/milk-math/",
+  "display": "standalone",
+  "background_color": "#fdf6f0",
+  "theme_color": "#fdf6f0",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/milk-math/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/milk-math/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
